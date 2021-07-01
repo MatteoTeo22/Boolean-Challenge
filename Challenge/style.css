@@ -1,0 +1,75 @@
+body{
+  background-image: url(background.jpg);
+  background-size: cover;
+}
+
+.logo{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 200px;
+}
+
+.titolo{
+  text-align: center;
+  color:#00FF00;
+}
+
+nav{
+  text-align: center;
+  background-color:#32CD32;
+  margin-left: 500px;
+  margin-right: 500px;
+  padding: 10px;
+}
+
+.gino{
+  margin-left: 500px;
+  color: white;
+}
+
+.testo1{
+  margin-left: 500px;
+  color: white;
+}
+
+#rectangle1{
+  width:240px;
+  height:25px;
+  background:orange;
+  margin-left: 500px;
+}
+
+.mike{
+  margin-left: 500px;
+  color: white;
+}
+
+.testo2{
+  margin-left: 500px;
+  color: white;
+}
+
+#rectangle2{
+  width:400px;
+  height:25px;
+  background:green;
+  margin-left: 500px;
+}
+
+.fede{
+  margin-left: 500px;
+  color: white;
+}
+
+.testo3{
+  margin-left: 500px;
+  color: white;
+}
+
+#rectangle3{
+  width:120px;
+  height:25px;
+  background:red;
+  margin-left: 500px;
+}
